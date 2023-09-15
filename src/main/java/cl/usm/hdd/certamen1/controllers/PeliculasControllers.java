@@ -5,7 +5,6 @@ import cl.usm.hdd.certamen1.services.PeliculaServices;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import sun.security.mscapi.PRNG;
 
 import java.util.List;
 
